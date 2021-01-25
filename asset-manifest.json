@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fuell/static/css/main.3bb5155e.chunk.css",
+    "main.js": "/fuell/static/js/main.b846f907.chunk.js",
+    "main.js.map": "/fuell/static/js/main.b846f907.chunk.js.map",
+    "runtime-main.js": "/fuell/static/js/runtime-main.a1a38dc9.js",
+    "runtime-main.js.map": "/fuell/static/js/runtime-main.a1a38dc9.js.map",
+    "static/js/2.c1c3f527.chunk.js": "/fuell/static/js/2.c1c3f527.chunk.js",
+    "static/js/2.c1c3f527.chunk.js.map": "/fuell/static/js/2.c1c3f527.chunk.js.map",
+    "index.html": "/fuell/index.html",
+    "static/css/main.3bb5155e.chunk.css.map": "/fuell/static/css/main.3bb5155e.chunk.css.map",
+    "static/js/2.c1c3f527.chunk.js.LICENSE.txt": "/fuell/static/js/2.c1c3f527.chunk.js.LICENSE.txt",
+    "static/media/Car.ee8dfa72.svg": "/fuell/static/media/Car.ee8dfa72.svg",
+    "static/media/error.0bab6724.svg": "/fuell/static/media/error.0bab6724.svg",
+    "static/media/topography.d258eea0.svg": "/fuell/static/media/topography.d258eea0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a38dc9.js",
+    "static/js/2.c1c3f527.chunk.js",
+    "static/css/main.3bb5155e.chunk.css",
+    "static/js/main.b846f907.chunk.js"
+  ]
+}
