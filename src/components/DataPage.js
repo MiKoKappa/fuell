@@ -117,7 +117,7 @@ export default function DataPage({lang, query, setQuery}) {
     const [isError, setIsError] = useState(false);
     useEffect(() => {
         navigator.geolocation.getCurrentPosition((data)=>{
-            axios.get(`http://api.positionstack.com/v1/reverse?access_key=${process.env.REACT_APP_GEO_KEY}&query=${data.coords.latitude},${data.coords.longitude}&limit=1`)
+            axios.get(`https://api.positionstack.com/v1/reverse?access_key=${process.env.REACT_APP_GEO_KEY}&query=${data.coords.latitude},${data.coords.longitude}&limit=1`)
             .then((response)=>{setStartSpot(`${response.data.data[0].county}, ${response.data.data[0].region}, ${response.data.data[0].country_code}`)})
             .catch((error)=>setIsError(!isError));
         })
