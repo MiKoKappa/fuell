@@ -1,5 +1,5 @@
 # FUELL :rocket:
-#####*A React app to help drivers*
+##### *A React app to help drivers*
 
 FUELL is a project developed to make calculating costs of trip easier.
 Just input your starting point and destination, supply fuel usage and price and your are good to go!
